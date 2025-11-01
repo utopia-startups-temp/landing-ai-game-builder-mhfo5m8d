@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#2d8ceb",
+    "secondary": "#5c6beb",
+    "accent": "#1eaed9",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Build Your Dream Game with AI",
+      "subheadline": "Turn ideas into playable games without a single line of code.",
+      "cta": {
+        "label": "Start Creating Now",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "hero-1"
+    },
+    {
+      "type": "problem",
+      "headline": "Game Development is Hard. We Make it Easy.",
+      "bullets": [
+        "Overwhelmed by coding and design?",
+        "Struggling to bring your game idea to life?",
+        "Need a faster way to prototype?"
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "problem-2"
+    },
+    {
+      "type": "solution",
+      "headline": "AI-Powered Game Creation",
+      "subheadline": "Our platform generates your game from simple ideas. No coding needed.",
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "solution-3"
+    },
+    {
+      "type": "features",
+      "headline": "Features That Empower You",
+      "items": [
+        {
+          "title": "Intuitive Design Interface",
+          "description": "Customize your game with an easy-to-use interface."
+        },
+        {
+          "title": "AI-Assisted Development",
+          "description": "From graphics to game mechanics, AI handles the heavy lifting."
+        },
+        {
+          "title": "Export Anywhere",
+          "description": "Easily export games to popular engines like Unity and Godot."
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "features-4"
+    },
+    {
+      "type": "benefits",
+      "headline": "Why Choose Us?",
+      "bullets": [
+        "Save hundreds of hours in development time.",
+        "Bring your game to market faster than ever.",
+        "No coding or design experience required."
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none"
+      },
+      "id": "benefits-5"
+    },
+    {
+      "type": "cta",
+      "headline": "Ready to Build Your Game?",
+      "cta": {
+        "label": "Explore on Utopia Marketplace",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none"
+      },
+      "id": "cta-6"
+    }
+  ],
+  "goal": "lead-collection"
+}
